@@ -6,4 +6,9 @@
 
 ### 
 -accept chalenges 
+
 -inspiration 
+
+-no pain,no gain
+
+[Blog](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
