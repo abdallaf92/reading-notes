@@ -5,12 +5,12 @@
 ## ways to remind myself with growth mindset 
 
 ### 
--***accept chalenges*** 
+- ***accept chalenges*** 
 
--***inspiration*** 
+- ***inspiration*** 
 
--***no pain,no gain***
+- ***no pain,no gain***
 
 [Blog](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
-[Image](https://brainworldmagazine.com/wp-content/uploads/2017/10/BrainSeedling.jpg)
+![Image](https://brainworldmagazine.com/wp-content/uploads/2017/10/BrainSeedling.jpg)
